@@ -1,0 +1,22 @@
+{
+  "clear_label": "Ausgewähltes\nLabel zurücksetzen",
+  "clear_labels": "Ausgewählte\nLabels zurücksetzen",
+  "current_article": "Aktueller Artikel",
+  "more_articles": "Weitere Artikel",
+  "help_button_tooltip": "Hilfe",
+  "scroll_to_top": "Zum Anfang scrollen",
+  "back": "Zurück",
+  "ready": "Fertig",
+  "continue": "Weiter",
+  "skip": "Beenden",
+  "change_language": "Sprache ändern",
+  "change_language_text": "In der oberen rechten Ecke können Sie die derzeit aktive Sprache für die Website ändern. Um sie zu ändern, klicken Sie einfach auf eine Sprache und die Website wird die Sprache auf die ausgewählte Sprache ändern.",
+  "article_and_choose_article": "Aktueller Artikel & Artikel auswählen",
+  "article_and_choose_article_text": "Der aktuell ausgewählte Artikel wird immer ganz oben angezeigt und mit \"Aktueller Artikel\" überschrieben.\nIn diesem Prototypen können Sie zwischen verschiedenen Artikeln wählen, die Sie sich ansehen möchten. Wenn Sie den Artikel wechseln möchten, können Sie dies tun, indem Sie auf einen beliebigen Artikel in der Liste \"Weitere Artikel\" klicken.",
+  "meaning_of_labels": "Bedeutung der Labels",
+  "meaning_of_labels_text": "Für die Artikel werden bestimmte Kategorien angegeben, die jeweils Auskunft über die argumentative Ausrichtung des Artikels geben. Diese heißen \"Industrie\", \"Markt\", \"Grün\" oder \"Staat\". Das Label \"Industrie\" bezieht sich auf eine Perspektive, die Argumente nach ihrer Ausrichtung in Richtung Planung und Standardisierbarkeit ausrichtet. Es spielen messbare Daten und Statistiken eine relevante Rolle. Das Label \"Markt\" bezeichnet wiederum eine Argumentationsrichtung, die auf eine Gemeinwohl-Perspektive der Nachfrageorientierung und des freien Tausches setzt. Hinter dem Label \"Staat\" verbirgt sich eine Perspektive die Argumente in den Artikeln hinsichtlich ihrer Ausrichtung nach Fairness, Partizipation und Gleichheit markiert. Und nicht zuletzt verbirgt sich hinter dem Label \"Grün\" eine Argumentation, die für Umweltbewusstsein und Nachhaltigkeit plädiert.\nZudem können diese Kategorien mit einem + oder - annotiert sein, um zu differenzieren, ob positiv oder negativ auf eine argumentative Perspektive Bezug genommen wird, d.h., sie kritisiert oder befürwortet wird. Ohne Nachzeichen ist der Bezug neutral.  Es ist ebenso möglich, dass in einem Artikel mehrere unterschiedliche Positionierungen aufgegriffen werden.",
+  "selection_of_labels": "Auswahl der Labels",
+  "selection_of_labels_text": "Sie können in dem Prototypen einzelne Labels anwählen. In den Artikeln, in denen das Label ebenfalls vorkommt, wird dieses hervorgehoben. Artikel, die das Label nicht enthalten werden ausgegraut. Es können auch mehrere Labels gleichzeitig ausgewählt werden. Ihre Auswahl eines oder mehrerer Labels können Sie über den \"Ausgewählte Labels zurücksetzen\"-Button in der rechten oberen Ecke zurücksetzen.",
+  "select_title_for_study": "Auswahl des Artikel-Titels und Übernahme in die Studie",
+  "select_title_for_study_text": "Über das Kopieren des Artikel-Titels des aktuellen Artikels können Sie Ihre Auswahl leicht für die Angabe in der Studie übernehmen. (Rechtsklick \"Kopieren\" oder STRG/CMD + C)"
+}

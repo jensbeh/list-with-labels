@@ -1,0 +1,22 @@
+{
+  "clear_label": "Clear\nselected label",
+  "clear_labels": "Clear\nselected labels",
+  "current_article": "Current article",
+  "more_articles": "More articles",
+  "help_button_tooltip": "Help",
+  "scroll_to_top": "Scroll to top",
+  "back": "Back",
+  "ready": "Ready",
+  "continue": "Continue",
+  "skip": "Exit",
+  "change_language": "Change language",
+  "change_language_text": "In the top right corner you can change the currently active language you want to use for the website. To change it simply click on one language and the website will change the language to the selected one.",
+  "article_and_choose_article": "Current article & Select articles",
+  "article_and_choose_article_text": "The currently selected article is always displayed at the top and titled \"Current article\".\nIn this prototype, you can choose between different articles that you would like to view. If you want to change the article, you can do this by clicking on any article in the \"More articles\" list.",
+  "meaning_of_labels": "Meaning of the labels",
+  "meaning_of_labels_text": "Certain categories are specified for the articles, each of which provides information about the argumentative orientation of the article. These are called \"Industrie\", \"Markt\", \"Grün\" oder \"Staat\". The \"Industrie\" label refers to a perspective that aligns arguments according to their orientation towards planning and standardizability. Measurable data and statistics play a relevant role. The \"Markt\" label, on the other hand, refers to a line of argument based on a common good perspective of demand orientation and free exchange. Behind the label \"Staat\" lies a perspective that marks the arguments in the articles with regard to their orientation towards fairness, participation and equality. And, last but not least, the label \"Grün\" refers to an argument that advocates environmental awareness and sustainability.\nIn addition, these categories can be annotated with a + or - to differentiate whether a positive or negative reference is made to an argumentative perspective, i.e. whether it is criticized or supported. Without a suffix, the reference is neutral.  It is also possible that several different positions are taken up in one article.",
+  "selection_of_labels": "Selection of labels",
+  "selection_of_labels_text": "You can select individual labels in the prototype. In the articles in which the label also appears, it is highlighted. Articles that do not contain the label are grayed out. Several labels can also be selected at the same time. You can reset your selection of one or more labels using the \"Clear selected labels\" button in the top right-hand corner.",
+  "select_title_for_study": "Selection of the article title and inclusion in the study",
+  "select_title_for_study_text": "By copying the article title of the current article, you can easily adopt your selection for the information in the study. (Right-click \"Copy\" or CTRL/CMD + C)"
+}
